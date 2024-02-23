@@ -1,0 +1,4 @@
+com\example\demo\Controller\CurrencyController.class
+com\example\demo\DemoApplication.class
+com\example\demo\Enum\CurrencyCode.class
+com\example\demo\Entity\Currency.class
